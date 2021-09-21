@@ -21,5 +21,3 @@ Practice Repository
 -I love to spend time with family
 
 -My favorite food is steak
-
-~~The world is flat.~~
