@@ -4,7 +4,6 @@ Hello World
 ## Description
 Practice Repository
 
-
 ### About Myself
 *Hello!*
 -I love playing and watching sports.
