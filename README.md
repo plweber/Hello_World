@@ -4,9 +4,10 @@ Hello World
 ## Description
 Practice Repository
 
-### About Myself
+## About Myself
 
 *Hello!*
+
 -I love playing and watching sports.
 
 -My favorite professional teams are the Colts, Cubs, and Celtics.
