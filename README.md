@@ -1,5 +1,5 @@
 # Project Title
-Hello World
+**Hello World**
 
 ## Description
 Practice Repository
@@ -8,11 +8,18 @@ Practice Repository
 
 *Hello!*
 
--I love playing and watching sports.
+-Finance; Business Analytics & Information Systems Major
 
--My favorite professional teams are the Colts, Cubs, and Celtics.
+-Tippie College of Business, The University of Iowa
 
--I love to spend time with family.
+-Graduating May 2023
 
--My favorite food is steak.
+-I love playing and watching sports
 
+-My favorite professional teams are the Colts, Cubs, and Celtics
+
+-I love to spend time with family
+
+-My favorite food is steak
+
+~~The world is flat.~~
